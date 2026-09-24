@@ -349,10 +349,10 @@ const setupMusicAutoplay = () => {
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const introMessages = [
-  "20 saal ki hogayi ghodi lmfao",
-  "buddhi",
+  "27 varsha chi zhalis lmfao",
+  "ghodi",
   "but ngl you're inspirational",
-  "im so proud of you",
+  "i love you so much",
   "anyways"
 ];
 
