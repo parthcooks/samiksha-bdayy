@@ -351,7 +351,7 @@ const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const introMessages = [
   "27 varsha chi zhalis lmfao",
   "ghodi",
-  "but ngl you're inspirational",
+  "but ngl you're so inspirational",
   "i love you so much",
   "anyways"
 ];
