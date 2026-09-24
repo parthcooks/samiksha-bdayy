@@ -180,7 +180,7 @@ const giftCodeElement = document.getElementById('gift-code');
 const copyBtn = document.getElementById('copy-btn');
 
 // Replace with your actual Google Play code
-const GOOGLE_PLAY_CODE = 'D6URNURP1VRXBJA2';
+const GOOGLE_PLAY_CODE = '42KW9VSAD925KFVN';
 
 // Set the code
 giftCodeElement.textContent = GOOGLE_PLAY_CODE;
